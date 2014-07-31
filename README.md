@@ -4,8 +4,8 @@ Implementación de un Chat. Para que la sincronización sea continua, cada medio
 
 Tecnologías
 ===========
-* Backend: `Node.js`
-* Frontend: `jQuery y HTML5`
+* Backend: `Node.js, expressJS`
+* Frontend: `jQuery, Bootstrap y HTML5`
 
 Screenshots
 ===========
