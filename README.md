@@ -10,11 +10,11 @@ Tecnologías
 Screenshots
 ===========
 
-*Chat en Chrome*
+*Chat en index*
 
-![Alt text](/screenshots/chrome.png "Chrome")
+![Alt text](/screenshots/index.png "Index.html")
 
-*Chat en Firefox*
+*Chat en room*
 
-![Alt text](/screenshots/firefox.png "Firefox")
+![Alt text](/screenshots/room.png "room.html")
 
