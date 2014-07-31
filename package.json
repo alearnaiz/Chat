@@ -1,0 +1,9 @@
+{
+  "name": "chat",
+  "description": "my first Node.js app with expressJS",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.7.2"
+  }
+}
