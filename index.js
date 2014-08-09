@@ -98,7 +98,7 @@ app.route('/rooms/:name/conversations')
 app.get('/index.html', function(request, response){
 	response.status(200).sendfile('./client/index.html');
 });
-sadada
+
 // GET /room.html
 app.get('/room.html', function(request, response){
 	response.status(200).sendfile('./client/room.html');
