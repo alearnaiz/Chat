@@ -1,6 +1,7 @@
 var express = require("express");
 var app = express();
 
+// Class PrivateRoom
 function PrivateRoom(password){
 	this.password = password;
 	this.conversations = [];
@@ -10,11 +11,13 @@ function PrivateRoom(password){
 	};
 };
 
+// Class Conversation
 function Conversation(user, text){
 	this.user = user;
 	this.text = text;
 };
 
+// Rooms data
 var privateRooms = [];
 
 // Simple logger
